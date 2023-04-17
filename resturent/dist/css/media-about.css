@@ -1,0 +1,12 @@
+
+    @media only screen and (min-width: 481px) and (max-width: 768px) {
+    .bavel_info{
+    
+        clip-path: polygon(100% 0, 100% 21%, 100% 60%, 100% 100%, 25% 100%, 0% 60%, 0 0);
+    }
+    }
+    @media only screen and (min-width: 320px) and (max-width: 480px) {
+        .bavel_info{
+            clip-path: polygon(100% 0, 100% 21%, 100% 60%, 100% 100%, 25% 100%, 0% 60%, 0 0);
+        }
+        }
